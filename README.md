@@ -5,14 +5,23 @@
 ---
 
 ### 🧠 About Me
-- 📱 Experienced Android Developer using **Java**
-- ⚙️ Skilled in building and customizing **mobile apps** and **custom ROMs**
-- 🗃️ Strong background in **Database Design** using **MySQL** and **SQLite**
-- ☁️ Proficient with **Firebase** services (Auth, Firestore, Storage...)
-- 🌐 Able to build and consume **RESTful APIs**
-- 🎨 Knowledgeable in **UI/UX design** using tools like Figma and Adobe XD
-- 💻 Familiar with **Docker**, **Azure**, and version control systems like **GitHub/GitLab**
-- 🚀 Always improving and learning new technologies
+
+- 📱 **Passionate Android Developer** with solid experience building high-performance mobile apps using **Java**
+- 🔧 Specialized in **custom ROM development**, system optimization, and deep integration with Android internals
+- 🗃️ Strong expertise in **Database Architecture**, including complex designs with **MySQL**, **SQLite**, and cloud databases
+- ☁️ Hands-on experience with **Firebase** ecosystem: Authentication, Firestore, Realtime DB, Cloud Storage, and Messaging
+- 🌐 Capable of designing, building, and consuming **RESTful APIs** for scalable backend communication
+- 🎨 Skilled in **UI/UX design principles**, using **Figma** and **Adobe XD** to create intuitive and user-centered mobile interfaces
+- 🐳 Comfortable working with **Docker**, **Azure**, and modern DevOps tools in real-world projects
+
+
+---
+
+### 📫 Contact Me
+- 📧 Email: lubbadisraa@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/israalubbad](https://linkedin.com/in/israalubbad)  
+- 📷 Instagram: [@israalubbad](https://instagram.com/israa.lubbad)  
+- 🐙 GitHub: [github.com/israalubbad](https://github.com/israalubbad)
 
 ---
 
@@ -74,23 +83,3 @@
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" width="47%"/>
-</p>
-
----
-
-### 📫 Contact Me
-- 📧 Email: lubbadisraa@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 📱 Telegram: [@israalubbad](https://t.me/israalubbad)
-
----
-
-### 🎯 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge)](https://github.com/israalubbad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/israa-lubbad)
